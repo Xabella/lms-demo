@@ -1,0 +1,8 @@
+{
+  "name": "LMS Demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b7932442"
+}

@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "LMS Demo",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
